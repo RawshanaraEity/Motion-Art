@@ -6,7 +6,7 @@ const Banner = () => {
           <div>
           <img src="image/MotionArtEffect-logo.png" alt="" />
           </div>
-            <div className="bg-white border-2 border-white text-[#0D051F] text-[18px] rounded-[5px] hover:bg-transparent hover:text-white hover:transition-all">
+            <div className="bg-white border-2 border-white text-[#0D051F] text-[18px] rounded-[5px] hover:bg-transparent hover:text-white duration-200 ease-in pointer-events-auto">
 
               <button className="px-[35px] py-[16px] font-normal">Purchase Now</button>
             </div>
