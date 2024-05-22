@@ -10,6 +10,7 @@ import Home from './Pages/Home/Home';
 
 
 
+
 const router = createBrowserRouter([
   {
     path: "/",
@@ -19,6 +20,6 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-     <RouterProvider router={router} />
+    <RouterProvider router={router} />
   </React.StrictMode>,
 )
