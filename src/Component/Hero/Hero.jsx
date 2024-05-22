@@ -12,7 +12,7 @@ const Hero = () => {
                     </div>
                 </div>
                 <div className="w-[505px] flex justify-end pt-3">
-                    <img src="/public/image/motionarteffect-img5.png" alt="" />
+                    <img src="image/motionarteffect-img5.png" alt="" />
                 </div>
             </div>
         </div>

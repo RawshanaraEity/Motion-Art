@@ -2,7 +2,7 @@ const Banner = () => {
   return (
     <div>
       <div className="pt-10">
-        <img src="/public/image/MotionArtEffect-logo.png" alt="" />
+        <img src="image/MotionArtEffect-logo.png" alt="" />
       </div>
       <div className="w-[640px] mx-auto">
         <h1 className="text-[55px] font-medium leading-[65px]">
