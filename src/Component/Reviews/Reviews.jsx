@@ -30,10 +30,10 @@ const Reviews = () => {
             {/* item 3 */}
            <div className="flex items-center gap-3 px-5 pt-[50px]">
                 <div>
-                    <img src="/public/image/motionarteffect-img3.png" alt="" />
+                    <img src="image/motionarteffect-img3.png" alt="" />
                 </div>
                 <div>
-                    <img src="/public/image/motionarteffect-img4.png" alt="" />
+                    <img src="image/motionarteffect-img4.png" alt="" />
                     <p className="pt-5">4.5 Score, 9 Reviews</p>
                 </div>
             </div>

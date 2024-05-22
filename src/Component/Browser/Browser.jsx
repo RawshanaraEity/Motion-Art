@@ -7,7 +7,7 @@ const Browser = () => {
                 <h2 className="text-[25px] font-medium">Supported by All Popular Browsers</h2>
                 <p className="text-[18px] text-[#EEE5FFBD] font-light leading-[30px] w-[430px] mx-auto py-6">Rest assured, Motion Art is designed to be compatible with all major web browsers.</p>
                 <div className="flex justify-center">
-                <img src="/public/image/motionarteffect-img8.png" alt="" />
+                <img src="image/motionarteffect-img8.png" alt="" />
                 </div>
             </div>
         </div>

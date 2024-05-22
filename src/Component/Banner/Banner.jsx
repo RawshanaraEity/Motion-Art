@@ -2,7 +2,15 @@ const Banner = () => {
   return (
     <div>
       <div className="pt-10">
-        <img src="image/MotionArtEffect-logo.png" alt="" />
+        <div className="flex justify-between px-[20px]">
+          <div>
+          <img src="image/MotionArtEffect-logo.png" alt="" />
+          </div>
+            <div className="bg-white border-2 border-white text-[#0D051F] text-[18px] rounded-[5px] hover:bg-transparent hover:text-white hover:transition-all">
+
+              <button className="px-[35px] py-[16px] font-normal">Purchase Now</button>
+            </div>
+        </div>
       </div>
       <div className="w-[640px] mx-auto">
         <h1 className="text-[55px] font-medium leading-[65px]">
