@@ -11,11 +11,11 @@ import Reviews from "../../Component/Reviews/Reviews";
 const Home = () => {
     return (
             
-        <div className="relative bg-[#0D051F] text-[#EEE5FF]">
+        <div className=" relative bg-[#0D051F] text-[#EEE5FF]">
     
-     <MouseEffect/>
+       <MouseEffect/>
     
-      <div className="relative z-10 pointer-events-none">
+        <div className="container mx-auto relative z-10 pointer-events-none">
            <Banner/>
            <Reviews/>
            <Hero/>

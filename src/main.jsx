@@ -6,7 +6,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Home from './Pages/Home/Home';
-
+import MouseEffect from './Component/MouseEffect/MouseEffect';
 
 
 
@@ -20,6 +20,8 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
+  
     <RouterProvider router={router} />
+  
   </React.StrictMode>,
 )

@@ -3,10 +3,10 @@
 const Reviews = () => {
     return (
         <div className="pt-10 pb-20">
-            <h2 className="text-center text-[22px] font-normal">
+            <h2 className="text-center text-[18px] md:text-[22px] font-normal">
             Trusted by thousands of users around the world
             </h2>
-           <div className="flex justify-between">
+           <div className="flex justify-between flex-col md:flex-row">
             {/* item 1 */}
            <div className="flex items-center gap-3 px-5 pt-[50px]">
                 <div>
