@@ -12,11 +12,11 @@ const Banner = () => {
         </div>
       </div>
       <div className="md:w-[640px] mx-auto text-center">
-        <h1 className="text-[40px] md:text-[55px] font-medium md:leading-[65px]">
+        <h1 className="text-[40px] md:text-[55px] font-Sora font-medium md:leading-[65px]">
           Attract Your Visitors Attention With <br /> Colorful <br />
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#F87516] via-[#5E11FF] to-[#5E11FF]"> Motion Art Effect</span>
         </h1>
-        <p className="text-[#EEE5FFBD] text-base md:text-[18px] font-light leading-7 py-8">
+        <p className="text-[#EEE5FFBD] text-base md:text-[18px] font-Outfit font-light leading-7 py-8">
           Unleash the power of creativity with Motion Art for Elementor - your
           ultimate solution for seamlessly integrating captivating animations
           into your website.

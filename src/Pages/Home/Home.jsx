@@ -13,7 +13,7 @@ const Home = () => {
             
         <div className=" relative bg-[#0D051F] text-[#EEE5FF]">
     
-       <MouseEffect/>
+            <MouseEffect/>
     
         <div className="container mx-auto relative z-10 pointer-events-none">
            <Banner/>

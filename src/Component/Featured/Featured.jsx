@@ -3,10 +3,10 @@ const Featured = () => {
     <div>
       <div className="mb-[120px]">
         <div className="md:w-[600px] mx-auto text-center">
-          <h2 className="text-[28px] md:text-[30px] leading-[55px] font-medium">
+          <h2 className="text-[28px] md:text-[30px] leading-[55px] font-Sora font-medium">
             An All-Round Plugin With Powerful Features
           </h2>
-          <p className="hidden md:block text-base md:text-[18px] font-light py-[30px] text-[#EEE5FFBD] ">
+          <p className="hidden md:block text-base md:text-[18px] font-Outfit font-light py-[30px] text-[#EEE5FFBD] ">
             Whether you're a seasoned web designer or just starting out, Motion
             Art for Elementor seamlessly integrates with the Elementor platform,
             providing you with a seamless and intuitive experience.
@@ -18,8 +18,8 @@ const Featured = () => {
               <img src="image/motionarteffect-img9.png" alt="" />
             </div>
             <div className="p-[30px]">
-              <h3 className="text-[23px] font-medium">Light Weight</h3>
-              <p className="pt-[30px] text-[18px] font-normal leading[30px] text-[#EEE5FFBD] ">
+              <h3 className="text-[23px] font-Sora font-medium">Light Weight</h3>
+              <p className="pt-[30px] text-[18px] font-Outfit font-normal leading[30px] text-[#EEE5FFBD] ">
                 Motion Art for Elementor is designed to be lightweight.
               </p>
             </div>
@@ -29,8 +29,8 @@ const Featured = () => {
               <img src="image/motionarteffect-img6.png" alt="" />
             </div>
             <div className="p-[30px]">
-              <h3 className="text-[23px] font-medium">100% Responsive</h3>
-              <p className="pt-[30px] text-[18px] font-normal leading[30px] text-[#EEE5FFBD] ">
+              <h3 className="text-[23px] font-Sora font-medium">100% Responsive</h3>
+              <p className="pt-[30px] text-[18px] font-Outfit font-normal leading[30px] text-[#EEE5FFBD] ">
               Create a consistent visual experience across all devices.
               </p>
             </div>
@@ -40,8 +40,8 @@ const Featured = () => {
               <img src="image/motionarteffect-img7.png" alt="" />
             </div>
             <div className="p-[30px]">
-              <h3 className="text-[23px] font-medium">User Friendly Interface</h3>
-              <p className="pt-[30px] text-[18px] font-normal leading[30px] text-[#EEE5FFBD] ">
+              <h3 className="text-[23px] font-Sora font-medium">User Friendly Interface</h3>
+              <p className="pt-[30px] text-[18px] font-Outfit font-normal leading[30px] text-[#EEE5FFBD] ">
               Ensure a smooth experience for both applicants and administrators.
               </p>
             </div>

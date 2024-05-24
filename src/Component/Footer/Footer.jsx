@@ -2,7 +2,7 @@
 
 const Footer = () => {
     return (
-        <div className="py-[25px] px-[10px] flex justify-between items-center bg-gradient-to-r from-[#F87516] to-[#5E11FF]">
+        <div className="py-[25px] px-[10px] font-Outfit font-normal flex justify-between items-center bg-gradient-to-r from-[#F87516] to-[#5E11FF]">
             <div>
                 <p>© 2023 Copywrite. All rights reserved by QodeMatrix</p>
             </div>

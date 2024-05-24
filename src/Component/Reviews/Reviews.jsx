@@ -3,7 +3,7 @@
 const Reviews = () => {
     return (
         <div className="pt-10 pb-20">
-            <h2 className="text-center text-[18px] md:text-[22px] font-normal">
+            <h2 className="text-center text-[18px] md:text-[22px] font-Outfit font-normal">
             Trusted by thousands of users around the world
             </h2>
            <div className="flex justify-between flex-col md:flex-row">
@@ -14,7 +14,7 @@ const Reviews = () => {
                 </div>
                 <div>
                     <img src="image/motionarteffect-img4.png" alt="" />
-                    <p className="pt-5">4.5 Score, 9 Reviews</p>
+                    <p className="pt-5 font-Sora font-normal">4.5 Score, 9 Reviews</p>
                 </div>
             </div>
             {/*item 2 */}
@@ -24,7 +24,7 @@ const Reviews = () => {
                 </div>
                 <div>
                     <img src="image/motionarteffect-img4.png" alt="" />
-                    <p className="pt-5">4.5 Score, 9 Reviews</p>
+                    <p className="pt-5 font-Sora font-normal">4.5 Score, 9 Reviews</p>
                 </div>
             </div>
             {/* item 3 */}
@@ -34,7 +34,7 @@ const Reviews = () => {
                 </div>
                 <div>
                     <img src="image/motionarteffect-img4.png" alt="" />
-                    <p className="pt-5">4.5 Score, 9 Reviews</p>
+                    <p className="pt-5 font-Sora font-normal">4.5 Score, 9 Reviews</p>
                 </div>
             </div>
            </div>
